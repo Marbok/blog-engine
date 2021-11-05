@@ -1,0 +1,13 @@
+.idea
+.vscode
+node_modules
+*.iml
+target
+node_modules
+.fake
+.ionide
+build
+npm-debug.log
+.classpath
+.project
+.settings
